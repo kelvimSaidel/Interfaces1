@@ -16,7 +16,7 @@ public class ProcessPayment {
 		this.paymentService = paymentService;
 	}
 
-    public void processInstallment(int numberMounths) {
+        public void processInstallment(int numberMounths) {
 	   Installment[] installmentList = new Installment[numberMounths];
 	   Calendar cal = Calendar.getInstance(); 
 	   for (int i=1; i<numberMounths+1; i++) {
