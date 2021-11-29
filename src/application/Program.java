@@ -36,9 +36,7 @@ public class Program {
     
     ProcessPayment processPayment = new ProcessPayment(contract, new Paypal());
     processPayment.processInstallment(numberInstallments);
-    
-    
-    
+     
     System.out.println("Installment:");
     for (int i=0; i<numberInstallments; i++) {
     		System.out.println(contract.toString(i));
