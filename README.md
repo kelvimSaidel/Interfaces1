@@ -11,7 +11,7 @@ The company uses an online payment service for installment payments. Online paym
 For now, the service contracted by the company is Paypal, which charges a simple interest of 1% for each installment, plus a payment fee of 2%.
 Make a program to read the contract data (contract number, contract date and total contract value).
 Then, the program must read the number of months for the contract to be paid in installments, and then generate the records of the installments to be paid (date and amount),
-with the first installment to be paid one month after the contract date, or second installment is after the contract and so on. 
+, with the first installment to be paid one month after the contract date, the second installment to be paid two months  after the contract date and so on.
 Show datas on the screen. Implement the payment Service according to the project below:
 
 ## Layout
