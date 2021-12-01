@@ -18,9 +18,14 @@ Show datas on the screen. Implement the payment Service according to the project
 
 ![INTERFACE](https://github.com/kelvimSaidel/Interfaces1/blob/65011d9d44dd29fc95f0b5f38cfda772d981cf6e/src/assets/example.JPG)
 
-## Conceptual data model
+## Domain layer design
 
-![CONCEPTUAL_DATA_MODEL](https://github.com/kelvimSaidel/Interfaces1/blob/65011d9d44dd29fc95f0b5f38cfda772d981cf6e/src/assets/Conceptual_data_model.JPG)
+![CONCEPTUAL_DATA_MODEL](https://github.com/kelvimSaidel/Interfaces1/blob/65011d9d44dd29fc95f0b5f38cfda772d981cf6e/src/assets/Conceptual_data_model_entities.JPG)
+
+## Service layer design
+
+![CONCEPTUAL_DATA_MODEL](https://github.com/kelvimSaidel/Interfaces1/blob/65011d9d44dd29fc95f0b5f38cfda772d981cf6e/src/assets/Conceptual_data_model_service.JPG)
+
 
 ## Technologies used
 
@@ -32,10 +37,10 @@ Precondition: java 11
 
 ```bash
 #clone repository
-git clone https://github.com/kelvimSaidel/Interfaces1.git
+git clone https://github.com/kelvimSaidel/interfaces1.git
 
 #enter in the  folder
-cd Interfaces1
+cd interfaces1
 
 #enter in the  folder
 cd src
