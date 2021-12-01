@@ -18,11 +18,9 @@ Show datas on the screen. Implement the payment Service according to the project
 
 ![INTERFACE](https://github.com/kelvimSaidel/Interfaces1/blob/65011d9d44dd29fc95f0b5f38cfda772d981cf6e/src/assets/example.JPG)
 
-## Domain layer design
+## Conceptual Data Model
 
 ![CONCEPTUAL_DATA_MODEL](https://github.com/kelvimSaidel/interfaces1/blob/b957089adcc2b5d8adba4effc0a5012b6cdabd6e/src/assets/conceptual_data_model_entities.JPG)
-
-## Service layer design
 
 ![CONCEPTUAL_DATA_MODEL](https://github.com/kelvimSaidel/interfaces1/blob/d883b3f7866cd7089219cc75a69fe893355123bc/src/assets/conceptual_data_model_service.JPG)
 
